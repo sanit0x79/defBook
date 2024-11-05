@@ -1,4 +1,11 @@
-# DefBook - Notebook App
+```
+       __     ________              __  
+  ____/ /__  / __/ __ )____  ____  / /__
+ / __  / _ \/ /_/ __  / __ \/ __ \/ //_/
+/ /_/ /  __/ __/ /_/ / /_/ / /_/ / ,<   
+\__,_/\___/_/ /_____/\____/\____/_/|_|  
+
+```
 
 DefBook is a simple notebook application that uses OpenAI's GPT-4o-mini API to fetch concise definitions for any word you type. This tool is designed mainly for readers that want to expand their knowledge of words. DefBook allows you to save and load notebooks with stored definitions, ensuring your work is preserved and easily accessible for future reference.
 
