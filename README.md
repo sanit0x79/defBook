@@ -49,8 +49,8 @@ DefBook is a simple notebook application that uses OpenAI's GPT-4o-mini API to f
 ### Estimated Cost per Definition
 Based on the above, each definition retrieval costs approximately:
 
-- **Input Cost**: \(10 \, \text{tokens} \times \frac{0.150}{1,000,000} = €0.0000015\)
-- **Output Cost**: \(40 \, \text{tokens} \times \frac{0.600}{1,000,000} = €0.000024\)
+- **Input Cost**: $\(10 \, \text{tokens} \times \frac{0.150}{1,000,000} = €0.0000015\)$
+- **Output Cost**: $\(40 \, \text{tokens} \times \frac{0.600}{1,000,000} = €0.000024\)$
 
 **Total Cost per Definition**: €0.0000255
 
